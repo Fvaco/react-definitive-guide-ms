@@ -1,0 +1,2 @@
+# Description
+This repository is a compilation of assignments. Each assignment is intended to learn a key feature in React.js. All them are extracted from [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux) by Maximilian Schwarzmüller.
