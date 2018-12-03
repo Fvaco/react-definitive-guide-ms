@@ -1,0 +1,11 @@
+.UserOutput {
+  width: 200px;
+  margin: 10px auto;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-bottom: 3px solid #ccc;
+  border-radius: 3px;
+  background-color: whitesmoke;
+  overflow: hidden;
+  word-break: keep-all;
+}
