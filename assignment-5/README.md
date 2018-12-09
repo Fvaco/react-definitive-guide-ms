@@ -1,6 +1,6 @@
-# Assignment 4 - Redux Basics
+# Assignment 5 - Redux and React-Redux
 ## Instructions
-Add some checks in the reducer function to handle the cases of DECREMENT, ADD and SUBTRACT features.
+Integrate Redux to this project.
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
