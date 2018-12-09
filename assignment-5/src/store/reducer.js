@@ -19,6 +19,7 @@ const reducer = (state = initialState, action) => {
       };
     case actions.DELETE_PERSON:
       return {
+        ...state,
         persons: state.persons.filter(person => person.id !== action.payload.personID)
       };
 
